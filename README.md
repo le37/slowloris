@@ -12,6 +12,8 @@ e.g.
 
     python3 slowloris.py localhost 8080 1000
 
+![Target Down](https://raw.githubusercontent.com/le37/slowloris/main/images/target-down.jpg "Target Down")
+
 ## Build Targets (Optional)
 
 Two Docker files are included to build demonstration targets:
@@ -42,5 +44,7 @@ To build 2.2.14:
 
 **Step 3**
 
-Test the target is up and running by visiting http://localhost:8080 in your browser
+Test the target is up and running by visiting http://localhost:8080 in your browser:
+
+![Target Up](https://raw.githubusercontent.com/le37/slowloris/main/images/target-up.jpg "Target Up")
 
